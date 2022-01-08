@@ -5,6 +5,6 @@ export default {
     return {
       // 购物车商品列表
       list: []
-    }
+    };
   }
-}
+};

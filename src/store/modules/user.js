@@ -12,11 +12,11 @@ export default {
         mobile: '',
         token: ''
       }
-    }
+    };
   },
   mutations: {
     setUser(state, payload) {
-      state.profile = payload
+      state.profile = payload;
     }
   }
-}
+};
